@@ -1,6 +1,4 @@
 ## Olá me chamo Douglas Lopes !!!
-![Snake animation](https://github.com/douglaslopesdossantos/douglaslopesdossantos/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
 
   <a href="https://github.com/douglaslopesdossantos">
@@ -21,3 +19,4 @@
   <img align="center" alt="Douglas-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
 </div>
 
+![Snake animation](https://github.com/douglaslopesdossantos/douglaslopesdossantos/blob/output/github-contribution-grid-snake.svg)
